@@ -1,1 +1,1 @@
-My second readme directory
+Display current directory contents, including hidden files using long format
